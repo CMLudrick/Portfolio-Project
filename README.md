@@ -1,4 +1,4 @@
 # Portfolio-Project
 One page portfolio utilizing responsive design
 
-Incorporated Bootstrap for responsive design and media queries, Grunt for image optimization and art direction.
+Incorporated Bootstrap for responsive design. Used media queries and art direction to ensure UX on different devices.
